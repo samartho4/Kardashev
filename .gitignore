@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.thumbnail
+
+# challenge brief — not for the repo
+uploads/
+
+# local stuff
+*.local
+.env
+.env.*
+node_modules/
